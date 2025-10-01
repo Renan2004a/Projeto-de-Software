@@ -1,5 +1,8 @@
 #Projeto de Software
 
+Diagrama de Caso de Uso - https://drive.google.com/file/d/1ay-qlzeiApNaje4UxhoG1UBCvFajHd-I/view?usp=drive_link
+
+
 Diagramas de Sequência:
 
 01: https://drive.google.com/file/d/1Ry7y_Su0L74fBBhd9K-gw2ZisyLxmQJb/view?usp=sharing
